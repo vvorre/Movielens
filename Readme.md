@@ -1,4 +1,4 @@
-Files
+# Files
 
 The files are listed in the order to run.
 
@@ -8,14 +8,14 @@ tuneparams.R - code to tune models involving models with matrix factorization us
 
 analysis.R - code to analyse data and results
 
-Reports
+# Reports
 
 Movielens_Report_pdf - pdf report of the project
 
 Movielens_Report_html - HTML report of the project
 
-HTML rendered output is at 
+HTML rendered output is at available [here](https://rawcdn.githack.com/vvorre/Movielens/43a006a43040babe2ee0f59e67ba16923ccba9a4/Movielens_Report_html.html)
 
-Description
+# Description
 
 In this project, we study the 10M Movielens dataset provided by the GroupLens research lab to predict movie ratings of an user. We use some of the techniques developed during the Netflix Challenge to achieve an RMSE of about .78.
